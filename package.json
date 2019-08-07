@@ -1,0 +1,15 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "test mongodb connections",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Glen Hughes",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.3.0-beta2"
+  }
+}
